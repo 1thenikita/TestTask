@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask.WebAPI", "TestTask.WebAPI\TestTask.WebAPI.csproj", "{7204A723-7D8A-4580-8A7C-8D5224E2E4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask.ConsoleApp", "TestTask.ConsoleApp\TestTask.ConsoleApp.csproj", "{32FD94AB-6732-4D76-823B-B7D59F580945}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask.Shared", "TestTask.Shared\TestTask.Shared.csproj", "{0D55C5D1-0A72-4B0D-ACB6-A2BE9DCE44CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7204A723-7D8A-4580-8A7C-8D5224E2E4ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7204A723-7D8A-4580-8A7C-8D5224E2E4ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7204A723-7D8A-4580-8A7C-8D5224E2E4ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7204A723-7D8A-4580-8A7C-8D5224E2E4ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32FD94AB-6732-4D76-823B-B7D59F580945}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32FD94AB-6732-4D76-823B-B7D59F580945}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32FD94AB-6732-4D76-823B-B7D59F580945}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32FD94AB-6732-4D76-823B-B7D59F580945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0D55C5D1-0A72-4B0D-ACB6-A2BE9DCE44CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0D55C5D1-0A72-4B0D-ACB6-A2BE9DCE44CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0D55C5D1-0A72-4B0D-ACB6-A2BE9DCE44CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0D55C5D1-0A72-4B0D-ACB6-A2BE9DCE44CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

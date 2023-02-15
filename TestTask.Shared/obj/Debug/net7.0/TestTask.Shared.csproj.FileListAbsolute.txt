@@ -1,0 +1,12 @@
+/Users/nik-801/Developer/Rider/TestTask/TestTask.Shared/bin/Debug/net7.0/TestTask.Shared.deps.json
+/Users/nik-801/Developer/Rider/TestTask/TestTask.Shared/bin/Debug/net7.0/TestTask.Shared.dll
+/Users/nik-801/Developer/Rider/TestTask/TestTask.Shared/bin/Debug/net7.0/TestTask.Shared.pdb
+/Users/nik-801/Developer/Rider/TestTask/TestTask.Shared/obj/Debug/net7.0/TestTask.Shared.csproj.AssemblyReference.cache
+/Users/nik-801/Developer/Rider/TestTask/TestTask.Shared/obj/Debug/net7.0/TestTask.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nik-801/Developer/Rider/TestTask/TestTask.Shared/obj/Debug/net7.0/TestTask.Shared.AssemblyInfoInputs.cache
+/Users/nik-801/Developer/Rider/TestTask/TestTask.Shared/obj/Debug/net7.0/TestTask.Shared.AssemblyInfo.cs
+/Users/nik-801/Developer/Rider/TestTask/TestTask.Shared/obj/Debug/net7.0/TestTask.Shared.csproj.CoreCompileInputs.cache
+/Users/nik-801/Developer/Rider/TestTask/TestTask.Shared/obj/Debug/net7.0/TestTask.Shared.dll
+/Users/nik-801/Developer/Rider/TestTask/TestTask.Shared/obj/Debug/net7.0/refint/TestTask.Shared.dll
+/Users/nik-801/Developer/Rider/TestTask/TestTask.Shared/obj/Debug/net7.0/TestTask.Shared.pdb
+/Users/nik-801/Developer/Rider/TestTask/TestTask.Shared/obj/Debug/net7.0/ref/TestTask.Shared.dll
